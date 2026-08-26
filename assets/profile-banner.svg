@@ -24,21 +24,20 @@
     <circle cx="26" cy="21" r="6" fill="#2f5e52"/>
     <text x="46" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="7" font-weight="700" fill="#2f5e52">CLOUD • DEVOPS • ENGINEERING</text>
 
-    <text x="0" y="150" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="6" fill="#15392f">SHASHANK</text>
-    <text x="455" y="150" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="6" fill="#15392f">JUMBARTHI</text>
-    <rect x="0" y="176" width="645" height="6" rx="3" fill="#437d70"/>
+    <text x="0" y="150" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="4" fill="#15392f">SHASHANK JUMBARTHI</text>
+    <rect x="0" y="176" width="660" height="6" rx="3" fill="#437d70"/>
     <text x="0" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="31" font-weight="700" fill="#335f54">Cloud Engineer • DevOps Builder • Automation Focused</text>
     <text x="0" y="274" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" fill="#45665d">Turning infrastructure, pipelines, and operations into reliable systems you can test.</text>
   </g>
 
-  <g transform="translate(1040 70)" filter="url(#shadow)">
-    <rect x="0" y="0" width="455" height="310" rx="24" fill="#123c32"/>
-    <rect x="0" y="0" width="455" height="54" rx="24" fill="#235647"/>
-    <path d="M0 34H455V54H0Z" fill="#235647"/>
+  <g transform="translate(1048 70)" filter="url(#shadow)">
+    <rect x="0" y="0" width="485" height="310" rx="24" fill="#123c32"/>
+    <rect x="0" y="0" width="485" height="54" rx="24" fill="#235647"/>
+    <path d="M0 34H485V54H0Z" fill="#235647"/>
     <circle cx="31" cy="27" r="7" fill="#e46f61"/>
     <circle cx="56" cy="27" r="7" fill="#e9bd58"/>
     <circle cx="81" cy="27" r="7" fill="#79b990"/>
-    <text x="188" y="33" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700" fill="#9bc8b8">shashank@cloud:~</text>
+    <text x="242" y="33" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700" fill="#9bc8b8">shashank@cloud:~</text>
 
     <text x="31" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" font-weight="700" fill="#8bd6b8">$ whoami</text>
     <text x="31" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700" fill="#fbf7e8">cloud engineer</text>
@@ -46,7 +45,7 @@
     <text x="31" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700" fill="#fbf7e8">automation focused</text>
 
     <text x="31" y="255" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" font-weight="700" fill="#8bd6b8">$ status</text>
-    <text x="31" y="292" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" font-weight="700" fill="#fbf7e8">building // testing // shipping</text>
-    <rect x="407" y="270" width="13" height="24" fill="#8bd6b8"/>
+    <text x="31" y="292" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#fbf7e8">building // testing // shipping</text>
+    <rect x="440" y="270" width="13" height="24" fill="#8bd6b8"/>
   </g>
 </svg>
