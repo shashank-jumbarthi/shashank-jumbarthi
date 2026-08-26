@@ -7,7 +7,7 @@
   <a href="mailto:Shashankjumbarthi7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-b26b4e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-# Hello, I'm Shashank
+# Hello, I'm Shashank Jumbarthi
 
 I'm an **IT and Cloud Engineer** interested in the connective tissue between **cloud infrastructure, DevOps automation, production operations, and security**.
 
