@@ -9,7 +9,7 @@
 
 # Hello, I'm Shashank Jumbarthi
 
-I'm an **IT and Cloud Engineer** interested in the connective tissue between **cloud infrastructure, DevOps automation, production operations, and security**.
+I'm an **Cloud and Devops Engineer** interested in the connective tissue between **cloud infrastructure, DevOps automation, production operations, and security**.
 
 I like projects where infrastructure does more than exist on paper: it should be **implemented, tested, observable, repeatable, and backed by evidence**.
 
