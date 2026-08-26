@@ -54,12 +54,6 @@ When | Where | Focus
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-**Cloud & infrastructure:** `AWS` · `Azure` · `EC2` · `VPC` · `S3` · `IAM` · `RDS` · `CloudWatch` · `Route 53` · `Terraform` · `CloudFormation` · `Ansible`
-
-**Security operations:** `Nmap` · `MITRE ATT&CK` · `Cloud Security` · `MFA` · `Least Privilege` · `Prometheus` · `Grafana` · `ELK Stack` · `Incident Response`
-
-**Systems & identity:** `Linux` · `Windows Server` · `Active Directory` · `Microsoft Entra ID` · `Microsoft 365` · `Intune` · `SCCM` · `ServiceNow`
-
 ---
 
 <p align="center">
